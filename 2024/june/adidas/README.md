@@ -79,6 +79,12 @@ If you want to learn more about Grafana or want a training/workshop program for 
   - [**Grafana Labs created**](https://grafana.com/grafana/plugins/all-plugins/?signature=grafana) (Official support)
   
   - [**Community-based**](https://grafana.com/grafana/plugins/all-plugins/?signature=community) (NO official support)
+ 
+### Grafana Databricks and AWS Sagemaker Plugins
+
+- [**Databricks**](https://grafana.com/grafana/plugins/grafana-databricks-datasource/) Data source plugin
+
+- [**AWS Cloudwatch**](https://grafana.com/grafana/plugins/cloudwatch/) (incl. AWS Sagemaker) Data source plugin
 
 ## Community resources
 
