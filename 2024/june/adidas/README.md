@@ -98,6 +98,8 @@ If you want to learn more about Grafana or want a training/workshop program for 
 
 - Official [**Documentation**](https://grafana.com/docs/)
 
+- [**Grafana Fundamentals**](https://grafana.com/tutorials/grafana-fundamentals/) to learn Grafana
+
 ## Pre-configured Dashboards
 
 - A collection of [**pre-configured Dashboards**](https://grafana.com/grafana/dashboards/) available for Free.
